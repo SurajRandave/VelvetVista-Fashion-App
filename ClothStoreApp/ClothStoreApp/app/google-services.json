@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476829041128",
+    "project_id": "cloth-store-app-3b78a",
+    "storage_bucket": "cloth-store-app-3b78a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476829041128:android:ef812e592165c4e299245d",
+        "android_client_info": {
+          "package_name": "com.example.clothstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476829041128-njpumub91j5imlkuf8fa3omfikrpuenk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3qsDCubh1YvAnaA8HtEKFLcasUrsdwtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476829041128-njpumub91j5imlkuf8fa3omfikrpuenk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

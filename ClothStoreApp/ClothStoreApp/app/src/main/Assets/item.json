@@ -1,0 +1,124 @@
+{
+  "item": [
+    {
+      "title": "Pink singlet",
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": "item_1.png"
+      ,
+      "oldPrice": 25,
+      "price": 35,
+      "rating": 4.6,
+      "review": 10
+
+    },
+    {
+      "title": "Jean Coat",
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": "item_2.png"
+         ,
+      "oldPrice": 40,
+      "price": 55,
+      "rating": 4.1,
+      "review": 45
+
+    },
+    {
+      "title": "Orange Knit Sweater",
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "picUrl":
+        "item_3.png",
+      "oldPrice": 60,
+      "price": 75,
+      "rating": 4.5,
+      "review": 10
+
+    },
+    {
+      "title": "Plaid shirt",
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl":
+        "item_4.png",
+      "oldPrice": 30,
+      "price": 40,
+      "rating": 4.2,
+      "review": 9
+
+    },
+    {
+      "title": "White T Shirt",
+      "description": "This stylish t shirt which give good look whith black band.100% cotton wool it helps give loving each other,Soft and comfortable for everyday wear",
+      "picUrl":
+      "item_5.jpg",
+      "oldPrice": 50,
+      "price": 40,
+      "rating": 4.2,
+      "review": 9
+
+    },
+    {
+    "title": "Black T Shirt",
+    "description": "Elevate your wardrobe with this classic black shirt, a staple for every modern individual. Crafted from premium, breathable cotton fabric, this shirt ensures all-day comfort without compromising on style. Its sleek, tailored fit is perfect for both casual outings and formal events, offering versatility that suits any occasion.",
+    "picUrl": "item_6.png",
+    "oldPrice":60,
+    "price": 40,
+    "rating": 4.5,
+    "review": 9
+    },
+
+    {
+      "title": "Tailored Blazer",
+      "description": "Step up your style game with our classic tailored blazer, a must-have addition to any wardrobe. Perfectly designed for both professional and social settings, this blazer offers a refined and polished look that complements any ensemble. Its modern cut and premium fabric provide a sleek fit that enhances your silhouette while ensuring comfort throughout the day.",
+      "picUrl": "item_7.png",
+      "oldPrice":70,
+      "price": 50,
+      "rating": 4.5,
+      "review": 9
+    },
+    {
+      "title": " Women's Casual",
+      "description": "Elevate your everyday style with our women's casual blazer, a perfect blend of comfort and sophistication. Designed to add a touch of elegance to any casual outfit, this blazer is versatile enough to transition from day to night with ease. Whether paired with jeans, dresses, or skirts, it’s your go-to layer for a relaxed yet polished look.",
+      "picUrl": "item_8.png",
+      "oldPrice":80,
+      "price": 50,
+      "rating": 4.5,
+      "review": 9
+    },
+
+    {
+      "title": "Boho-chic",
+      "description": "This Boho-chic top is the perfect blend of free-spirited style and modern fashion. Made from lightweight, breathable fabric, it offers comfort while keeping you stylish all day long. With intricate embroidery and relaxed fit, this piece is a must-have for those who love unique, artistic patterns. Pair it with jeans or a skirt for a look that exudes effortless charm. Perfect for casual outings, festivals, or beach vacations, this top will elevate your wardrobe.",
+      "picUrl": "Bohemian.png",
+      "oldPrice":50,
+      "price": 30,
+      "rating": 5.0,
+      "review": 9
+    },
+    {
+      "title": "Casual",
+      "description": "This casual shirt is designed for ultimate comfort and everyday wear. Featuring soft cotton fabric, it provides a relaxed fit that is ideal for lounging or a laid-back outing. With its simple yet stylish design, it pairs easily with jeans or shorts. Whether you're running errands, meeting friends, or enjoying a weekend getaway, this shirt keeps you cool and comfortable. A versatile wardrobe essential that can be dressed up or down to suit any casual occasion.Let me know if you'd like more!",
+      "picUrl": "Casual.png",
+      "oldPrice":100,
+      "price": 50,
+      "rating": 4.0,
+      "review": 5
+    },
+    {
+      "title": "Punk fashion",
+      "description": "Punk fashion embodies rebellion and individuality with edgy designs and bold aesthetics. Featuring distressed fabrics, leather jackets, studs, and graphic prints, this style is all about standing out and challenging the norm. It's perfect for those who embrace an unapologetic attitude and want to make a statement with their wardrobe. Whether you're rocking band tees, ripped jeans, or combat boots, punk fashion gives you the freedom to express your unique personality. Ideal for concerts, nightlife, or simply adding an attitude-filled twist to your everyday look.      ",
+      "picUrl": "Punk Fasion.png",
+      "oldPrice":200,
+      "price": 150,
+      "rating": 4.0,
+      "review": 5
+    },
+    {
+      "title": "Arts fashion",
+      "description": "Our Arts Fashion collection celebrates creativity and individuality with bold designs and vibrant colors. Inspired by artistic expression, each piece features unique prints, patterns, and textures that make a statement. Whether abstract, geometric, or floral, these designs are perfect for those who want to stand out and embrace their artistic side. Crafted from high-quality fabrics, these pieces offer both comfort and style for everyday wear. Perfect for gallery openings, casual outings, or simply expressing your love for art through fashion.",
+      "picUrl": "Arts Fasion.png",
+      "oldPrice":100,
+      "price": 150,
+      "rating": 4.0,
+      "review": 5
+    }
+  ]
+}

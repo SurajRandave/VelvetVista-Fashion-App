@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">908169975108</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLLRkGqwXeSgRGZIZGA6W2JVHnahJSaJ8</string>
+    <string name="google_app_id" translatable="false">1:908169975108:android:3e9fe4129507f3eaf6f311</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLLRkGqwXeSgRGZIZGA6W2JVHnahJSaJ8</string>
+    <string name="google_storage_bucket" translatable="false">ecommerce-cloth-store-8138f.appspot.com</string>
+    <string name="project_id" translatable="false">ecommerce-cloth-store-8138f</string>
+</resources>

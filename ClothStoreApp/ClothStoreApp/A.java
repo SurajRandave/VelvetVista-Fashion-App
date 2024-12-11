@@ -1,0 +1,1 @@
+    <string name="app_name">Cloth Store App</string>
